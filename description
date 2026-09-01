@@ -1,50 +1,128 @@
-# 👓 Four Meta Vision — Comparador Inteligente de Óticas
+# 👓 Four Meta Vision
 
-**Four Meta Vision (FMV)** é uma plataforma web inspirada em modelos como Trivago e Booking, criada para **facilitar a busca, comparação e escolha de óculos em diferentes óticas parceiras**.
+> **Encontre melhor. Compare melhor. Escolha consciente.**
 
-A proposta é simples: o usuário pesquisa um modelo, marca ou característica de óculos e encontra **diferentes ofertas reunidas em um só lugar**, podendo comparar preços, características, disponibilidade e condições de cada ótica.
+## 📌 Sobre o Projeto
 
-### 🚀 Principais funcionalidades
+O **Four Meta Vision (FMV)** é uma plataforma web de comparação de óticas, inspirada em modelos como **Trivago, Booking e Hotels.com**.
 
-* 🔎 **Busca inteligente** por marca, modelo e características.
-* 🏷️ **Comparação de preços** entre diferentes óticas.
-* 🕶️ **Agrupamento do mesmo modelo** em diferentes lojas.
-* 💰 **Filtros por faixa de preço**.
-* 🌱 **Filtros de sustentabilidade**.
-* ♿ **Recursos de acessibilidade e inclusão**.
-* 🏪 **Integração com óticas parceiras**.
-* 🔗 **Redirecionamento para a loja** para finalizar a compra.
-* ⭐ **Avaliação e informações das óticas**.
-* 📊 Futuramente, **painel para parceiros** acompanharem acessos, ofertas e desempenho.
+A proposta é reunir ofertas de diferentes óticas parceiras em um único ambiente, permitindo que o usuário pesquise um modelo de óculos e compare **preços, características, disponibilidade e condições** de diferentes lojas.
 
-### 🌱 Propósito
-
-Mais do que comparar preços, a FMV busca criar uma experiência de compra **acessível, transparente e consciente**, aproximando consumidores de óticas e incentivando práticas de sustentabilidade e inclusão.
-
-### 💡 Modelo de negócio
-
-A plataforma foi pensada para ser **financeiramente sustentável sem depender de publicidade invasiva**.
-
-Entre as possibilidades estão:
-
-* Comissões por vendas ou indicações;
-* Planos para óticas parceiras;
-* Destaques patrocinados identificados de forma transparente;
-* Ferramentas e análises para parceiros;
-* Futuramente, iniciativas próprias de sustentabilidade.
-
-### 🛠️ Tecnologias
-
-O projeto será desenvolvido inicialmente utilizando:
-
-`HTML5` • `CSS3` • `JavaScript`
-
-Com possibilidade de evolução para:
-
-`APIs` • `Banco de Dados` • `Autenticação` • `Integração com Parceiros` • `Analytics`
+Em vez de cadastrar e armazenar todos os produtos diretamente na plataforma, a FMV foi pensada para futuramente trabalhar com **integração de dados das óticas parceiras**, direcionando o usuário para a loja responsável pela oferta.
 
 ---
 
-> **Four Meta Vision — Encontre melhor. Compare melhor. Escolha consciente.** 👓💙
+## 🎯 Objetivo
 
-**Status:** 🚧 Em desenvolvimento
+Facilitar a escolha de óculos através de uma experiência de comparação simples, transparente e acessível.
+
+A plataforma busca conectar:
+
+**👤 Consumidor → 🔎 Four Meta Vision → 🏪 Óticas Parceiras**
+
+---
+
+## 🚀 Funcionalidades
+
+### 🔎 Busca e comparação
+- Pesquisa por marca, modelo e características.
+- Comparação do mesmo modelo em diferentes óticas.
+- Ordenação por preço.
+- Filtros personalizados.
+- Visualização das características dos produtos.
+
+### 🏪 Óticas Parceiras
+- Cadastro de óticas.
+- Exibição das ofertas disponíveis.
+- Link direto para a loja parceira.
+- Futuramente, integração via API ou feed de produtos.
+- Painel para gerenciamento das ofertas.
+
+### ♿ Inclusão e acessibilidade
+- Interface pensada para diferentes perfis de usuários.
+- Alto contraste.
+- Ajuste de tamanho de fonte.
+- Navegação simplificada.
+- Elementos visuais acessíveis.
+- Filtros relacionados a características de armações e lentes.
+
+### 🌱 Sustentabilidade
+- Identificação de produtos e parceiros com iniciativas sustentáveis.
+- Filtros para opções mais conscientes.
+- Futuro programa de reutilização e descarte responsável de óculos.
+- Possibilidade de criar um sistema de pontos/recompensas para ações sustentáveis.
+
+---
+
+## 💡 Diferencial
+
+A Four Meta Vision não pretende ser apenas um catálogo de óculos.
+
+A ideia é criar uma plataforma que combine:
+
+- 🔎 **Comparação**
+- 💰 **Acessibilidade econômica**
+- ♿ **Inclusão**
+- 🌱 **Sustentabilidade**
+- 🤝 **Conexão com óticas**
+- 📊 **Dados e inteligência de mercado**
+
+O objetivo é tornar a escolha do consumidor mais simples e, ao mesmo tempo, criar valor para as óticas parceiras.
+
+---
+
+## 💰 Modelo de Negócio
+
+A plataforma foi projetada para buscar sustentabilidade financeira sem depender de publicidade invasiva.
+
+Possíveis fontes de receita:
+
+- 🛒 Comissão por vendas ou indicações;
+- 🏪 Planos para óticas parceiras;
+- ⭐ Destaques patrocinados identificados de forma transparente;
+- 📊 Ferramentas e relatórios para parceiros;
+- 🌱 Futuras iniciativas relacionadas à sustentabilidade.
+
+O usuário poderá utilizar o comparador gratuitamente, enquanto a monetização ocorre principalmente através dos parceiros e serviços oferecidos às empresas.
+
+---
+
+## 🛠️ Tecnologias
+
+### Atualmente
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Futuras implementações
+
+- API REST
+- Banco de dados
+- Sistema de autenticação
+- Painel administrativo
+- Integração com APIs das óticas
+- Sistema de avaliações
+- Analytics
+- Sistema de recomendação
+
+---
+
+## 🗂️ Estrutura Inicial
+
+```text
+four-meta-vision/
+│
+├── index.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── assets/
+│   ├── images/
+│   └── icons/
+│
+└── README.md
