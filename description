@@ -1,0 +1,50 @@
+# 👓 Four Meta Vision — Comparador Inteligente de Óticas
+
+**Four Meta Vision (FMV)** é uma plataforma web inspirada em modelos como Trivago e Booking, criada para **facilitar a busca, comparação e escolha de óculos em diferentes óticas parceiras**.
+
+A proposta é simples: o usuário pesquisa um modelo, marca ou característica de óculos e encontra **diferentes ofertas reunidas em um só lugar**, podendo comparar preços, características, disponibilidade e condições de cada ótica.
+
+### 🚀 Principais funcionalidades
+
+* 🔎 **Busca inteligente** por marca, modelo e características.
+* 🏷️ **Comparação de preços** entre diferentes óticas.
+* 🕶️ **Agrupamento do mesmo modelo** em diferentes lojas.
+* 💰 **Filtros por faixa de preço**.
+* 🌱 **Filtros de sustentabilidade**.
+* ♿ **Recursos de acessibilidade e inclusão**.
+* 🏪 **Integração com óticas parceiras**.
+* 🔗 **Redirecionamento para a loja** para finalizar a compra.
+* ⭐ **Avaliação e informações das óticas**.
+* 📊 Futuramente, **painel para parceiros** acompanharem acessos, ofertas e desempenho.
+
+### 🌱 Propósito
+
+Mais do que comparar preços, a FMV busca criar uma experiência de compra **acessível, transparente e consciente**, aproximando consumidores de óticas e incentivando práticas de sustentabilidade e inclusão.
+
+### 💡 Modelo de negócio
+
+A plataforma foi pensada para ser **financeiramente sustentável sem depender de publicidade invasiva**.
+
+Entre as possibilidades estão:
+
+* Comissões por vendas ou indicações;
+* Planos para óticas parceiras;
+* Destaques patrocinados identificados de forma transparente;
+* Ferramentas e análises para parceiros;
+* Futuramente, iniciativas próprias de sustentabilidade.
+
+### 🛠️ Tecnologias
+
+O projeto será desenvolvido inicialmente utilizando:
+
+`HTML5` • `CSS3` • `JavaScript`
+
+Com possibilidade de evolução para:
+
+`APIs` • `Banco de Dados` • `Autenticação` • `Integração com Parceiros` • `Analytics`
+
+---
+
+> **Four Meta Vision — Encontre melhor. Compare melhor. Escolha consciente.** 👓💙
+
+**Status:** 🚧 Em desenvolvimento
